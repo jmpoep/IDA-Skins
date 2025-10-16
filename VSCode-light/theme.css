@@ -570,6 +570,7 @@ CustomIDAMemo {
   qproperty-graph-bg-bottom: #EFEFEF;
   qproperty-graph-node-shadow: #EFEFEF;
 
+  qproperty-caret: black;
   qproperty-line-fg-default: blue;
   /* Default                                       */
   qproperty-line-fg-regular-comment: blue;

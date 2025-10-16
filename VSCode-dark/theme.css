@@ -554,6 +554,7 @@ TextArrows {
 CustomIDAMemo {
   border: none;
 
+  qproperty-caret: white;
   qproperty-line-fg-default: #58e219;
   qproperty-line-fg-regular-comment: #58e219;
   qproperty-line-fg-repeatable-comment: #bebebe;
